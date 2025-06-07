@@ -29,7 +29,7 @@ Activate this environment
 
 4. Download Weights
 
-Go to https://drive.google.com/drive/folders/12xHsoVC9aY1Mlq5WO2irr1ZjvabDPYkH?usp=drive_link to download the training-weights and store the file as described in point 5.
+Go to https://drive.google.com/drive/folders/12xHsoVC9aY1Mlq5WO2irr1ZjvabDPYkH?usp=drive_link to download the file 7wonders.pt. It contains training-weights and needs to be stored as described in point 5.
 (the file is too large to store in the git repository)
 
 5. Organise files
