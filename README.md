@@ -2,6 +2,8 @@
 
 Play a game of 7wonders, take pictures of your board and let the computer tell you the final score!
 
+If you just want to see an example of the code, have a look at game_01 - a fully evaluated game.
+
 # Instructions
 What needs to be done to run the script 7wonders.py:
 
