@@ -4,15 +4,16 @@ A code to evaluate the scores of your 7wonders game based on your pictures
 What needs to be done to run the script 7wonders.py:
 
 0. cmd
+
 Open a comand-window using the search function and typing "cmd"
 
-1. Environment
+2. Environment
 Create a new environment called 7wonders using
 	conda create --name 7wonders
 Activate this environment
 	conda activate 7wonders
 
-2. Install packages
+3. Install packages
 	pip install numpy
 	pip install os
 	pip install pillow
@@ -24,7 +25,7 @@ Activate this environment
 	pip install tabulate
 	pip install os-sys
 
-3. Organise files
+4. Organise files
 The following structure must be held:
 
 --> 
