@@ -40,14 +40,14 @@ The following folder structure must be ensured:
 
 7wonders
 - 7wonders.py  
-	- weights
- 		- 7wonders.pl (needs to be downloaded, explained above)  
-	- game_01 (An example of how the fully evaluate output will look like)  
-	- test_game (A set of images that can be used to test the code)  
-	- YourGame (A folder you will create)  
-		- 1_firstplayer.jpeg  
-		- 2_secondplayer.jpeg  
-		- 3_thirdplayer.jpeg  
+- weights
+ 	- 7wonders.pl (needs to be downloaded, explained above)  
+- game_01 (An example of how the fully evaluate output will look like)  
+- test_game (A set of images that can be used to test the code)  
+- YourGame (A folder you will create)  
+	- 1_firstplayer.jpeg  
+	- 2_secondplayer.jpeg  
+	- 3_thirdplayer.jpeg  
 
 Add a folder for each game you play into the folder 7wonders. You can name the folder as you like.  
 Within each game folder, you can place the x images of this game. You NEED to name the image files under the following rules:  
