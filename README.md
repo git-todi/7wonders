@@ -1,6 +1,8 @@
 # 7wonders
-A code to evaluate the scores of your 7wonders game based on your pictures
 
+Play a game of 7wonders, take pictures of your board and let the computer tell you the final score!
+
+# Instructions
 What needs to be done to run the script 7wonders.py:
 
 ## 1. cmd
