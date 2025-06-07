@@ -10,9 +10,9 @@ Open a comand-window using the search function and typing "cmd"
 2. Environment
 
 Create a new environment called 7wonders using
-	conda create --name 7wonders
+	#conda create --name 7wonders
 Activate this environment
-	conda activate 7wonders
+	#conda activate 7wonders
 
 3. Install packages
 
