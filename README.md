@@ -41,7 +41,7 @@ The following folder structure must be ensured:
 7wonders
 - 7wonders.py  
 	- weights
- 	- 7wonders.pl (needs to be downloaded, explained above)  
+ 		- 7wonders.pl (needs to be downloaded, explained above)  
 	- game_04 (An example of how the fully evaluate output will look like)  
 	- game_05 (A set of images that can be used to test the code)  
 	- YourGame (A folder you will create)  
